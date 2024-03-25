@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ParOuImpar</string>
+
+    <string name="app_wins">Você escolheu %j e o app escolheu %1j e você perdeu</string>
+    <string name="app_loses">Você escolheu %s e o app escolheu %1s e você ganhou</string>
+</resources>
